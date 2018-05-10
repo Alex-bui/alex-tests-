@@ -1,0 +1,19 @@
+{
+  "name": "jojobar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-bui/jojobar.git"
+  },
+  "author": "alex bui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex-bui/jojobar/issues"
+  },
+  "homepage": "https://github.com/Alex-bui/jojobar#readme"
+}
