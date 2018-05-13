@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alex-bui/jojobar/issues"
   },
-  "homepage": "https://github.com/Alex-bui/jojobar#readme"
+  "homepage": "https://github.com/Alex-bui/jojobar#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
